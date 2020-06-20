@@ -1,2 +1,2 @@
 # racket-djvu
-A racket llibrary for djvu files.
+A racket library for djvu files.
